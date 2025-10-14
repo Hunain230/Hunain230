@@ -1,31 +1,59 @@
-# Hi, I'm Hunain Shahid 👋
+# Hi there 👋, I'm Hunain
 
-Welcome to my GitHub profile! I'm a passionate programmer and game developer. I love working on coding challenges, game development, and learning new technologies.
+---
 
-## 🚀 About Me
+## About Me
+💡 Passionate about **Data Structures, Algorithms, and System Design**  
+💻 Experienced in **C++**, **Python**, and general programming concepts  
+🧠 Strong foundation in **Mathematics** and **logical problem solving**  
+🚀 Always exploring new technologies and improving coding skills  
+📍 Based in Pakistan | Open to collaboration & learning opportunities  
+💾 Learning systems-level concepts: assembly, linking (static/dynamic), and low-level debugging  
 
-- 🌱 I’m learning **C++**, **Game Development**, and **Software Engineering**.
-- 💬 Ask me about **game development**, **C++**, or any other tech-related topics!
-- 📫 How to reach me: **[shunain230@gmail.com](mailto:shunain230@gmail.com)**
-- ⚡ Fun fact: I enjoy solving coding problems and experimenting with new game mechanics.
+---
 
-## 📈 My Stats
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_linkedin)
+[![Gmail](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
 
-![Hunain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HunainShahid&show_icons=true&hide_title=true&hide=prs)
+---
 
-## 🧰 Technologies & Tools
+## 💻 Tech Stack
+[![AssemblyScript](https://img.shields.io/badge/AssemblyScript-222222?style=for-the-badge&logo=assemblyscript&logoColor=white)]()
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
+[![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)]()
+[![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)]()
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)]()
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)]()
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)]()
 
-- **Languages:** C++, Python
-- **Version Control:** Git, GitHub
-- **Tools:** Visual Studio, VS Code
+---
 
-## 📂 Projects
+## 📊 GitHub Stats
+![Hunain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)  
 
-- **Bomberman Game (C++):** A classic Bomberman game developed using C++ with Visual Studio.
-- **Digital Wonderland (HTML):** A creative website built using HTML to showcase a "Digital Wonderland" theme.
+---
 
-## 🤝 Let's Connect
+## 🏆 GitHub Trophies
+![Hunain's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your_username&theme=radical)  
 
-- [LinkedIn](https://www.linkedin.com/in/hunain-shahid-b27201278/)
+---
 
-Feel free to check out my projects and reach out to me if you'd like to collaborate!
+## 🔝 Top Repositories
+[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=repo1&theme=radical)]()
+[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=repo2&theme=radical)]()
+[![Repo3](https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=repo3&theme=radical)]()
+
+---
+
+## 💬 Dev Quote
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
