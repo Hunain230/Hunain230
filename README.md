@@ -40,8 +40,13 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![Hunain's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hunain230&theme=radical)
+## 🚀 My Coding Activity
+
+### 🖥️ Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hunain230&layout=compact&theme=radical)
+
+### 🏆 LeetCode Stats
+![Hunain's LeetCode Stats](https://leetcard.jacoblin.cool/Hunain230?theme=dark)
 
 ---
 
@@ -53,4 +58,9 @@
 ---
 
 ## 💬 Dev Quote
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+<p align="center">
+✨💻💡 <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em> 💡💻✨
+</p>
+
+---
+
