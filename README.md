@@ -13,9 +13,8 @@
 ---
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_linkedin)
-[![Gmail](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hunain-shahid-b27201278/)  
+[![Gmail](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shunain230@gmail.com)
 
 ---
 
@@ -28,8 +27,6 @@
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
-[![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)]()
-[![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)]()
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)]()
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)]()
@@ -39,19 +36,19 @@
 ---
 
 ## 📊 GitHub Stats
-![Hunain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)  
+![Hunain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hunain230&show_icons=true&theme=radical) 
 
 ---
 
 ## 🏆 GitHub Trophies
-![Hunain's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your_username&theme=radical)  
+![Hunain's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hunain230&theme=radical)
 
 ---
 
 ## 🔝 Top Repositories
-[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=repo1&theme=radical)]()
-[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=repo2&theme=radical)]()
-[![Repo3](https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=repo3&theme=radical)]()
+[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=Hunain230&repo=REPO_NAME_1&theme=radical)]()
+[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=Hunain230&repo=REPO_NAME_2&theme=radical)]()
+[![Repo3](https://github-readme-stats.vercel.app/api/pin/?username=Hunain230&repo=REPO_NAME_3&theme=radical)]()
 
 ---
 
