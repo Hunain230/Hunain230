@@ -45,8 +45,9 @@
 ### 🖥️ Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hunain230&layout=compact&theme=radical)
 
+
 ### 🏆 LeetCode Stats
-![Hunain's LeetCode Stats](https://leetcard.jacoblin.cool/Hunain230?theme=dark)
+![Hunain's LeetCode Stats](https://leetcard.jacoblin.cool/HunainShahid?theme=dark)
 
 ---
 
