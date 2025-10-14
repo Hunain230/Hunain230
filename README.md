@@ -47,7 +47,7 @@
 
 
 ### 🏆 LeetCode Stats
-![Hunain's LeetCode Stats](https://leetcard.jacoblin.cool/HunainShahid?theme=dark)
+![Hunain's LeetCode Stats](https://leetcard.jacoblin.cool/2008?theme=dark)
 
 ---
 
