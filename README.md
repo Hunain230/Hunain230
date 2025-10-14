@@ -2,7 +2,7 @@
 
 ---
 
-## About Me
+## 💡 About Me
 💡 Passionate about **Data Structures, Algorithms, and System Design**  
 💻 Experienced in **C++**, **Python**, and general programming concepts  
 🧠 Strong foundation in **Mathematics** and **logical problem solving**  
@@ -12,7 +12,7 @@
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hunain-shahid-b27201278/)  
 [![Gmail](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shunain230@gmail.com)
 
@@ -36,7 +36,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Hunain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hunain230&show_icons=true&theme=radical) 
+![Hunain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hunain230&show_icons=true&theme=radical)  
 
 ---
 
@@ -45,9 +45,8 @@
 ### 🖥️ Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hunain230&layout=compact&theme=radical)
 
-
 ### 🏆 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/Hunain_Shahid?theme=dark)
+![Hunain Shahid's LeetCode Stats](https://leetcard.jacoblin.cool/Hunain_Shahid?theme=dark)
 
 ---
 
@@ -64,4 +63,3 @@
 </p>
 
 ---
-
