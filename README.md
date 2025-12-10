@@ -35,17 +35,8 @@
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&animation=glow)]()
 
 
----
-
-## 📊 GitHub Stats
-![Hunain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hunain230&show_icons=true&theme=radical)  
-
----
 
 ## 🚀 My Coding Activity
-
-### 🖥️ Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hunain230&layout=compact&theme=radical)
 
 ### 🏆 LeetCode Stats
 ![Hunain Shahid's LeetCode Stats](https://leetcard.jacoblin.cool/Hunain_Shahid?theme=dark)
