@@ -41,15 +41,6 @@
 ### 🏆 LeetCode Stats
 ![Hunain Shahid's LeetCode Stats](https://leetcard.jacoblin.cool/Hunain_Shahid?theme=dark)
 
----
-
-## 🔝 Top Repositories
-[![Digital-Wonderland---Graphic-Design-Website](https://github-readme-stats.vercel.app/api/pin/?username=Hunain230&repo=Digital-Wonderland---Graphic-Design-Website&theme=radical)]()
-[![Bomber-Man](https://github-readme-stats.vercel.app/api/pin/?username=Hunain230&repo=Bomber-Man&theme=radical)]()
-[![Adventure-Quest-using-SFML](https://github-readme-stats.vercel.app/api/pin/?username=Hunain230&repo=Adventure-Quest-using-SFML&theme=radical)]()
-
----
-
 ## 💬 Dev Quote
 <p align="center">
 ✨💻💡 <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em> 💡💻✨
