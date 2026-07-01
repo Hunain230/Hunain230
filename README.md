@@ -13,8 +13,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Hunain%20Shahid&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=8A63FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+with+LLMs+%26+RAG;Backend+Engineer+%7C+FastAPI+%7C+Distributed+Systems;Data+Structures+%2B+Algorithms+%2B+System+Design;Open+Source+Enthusiast+from+Pakistan" alt="Typing SVG" />
-
 <br/>
 
 <a href="https://www.linkedin.com/in/hunain-shahid-b27201278/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
