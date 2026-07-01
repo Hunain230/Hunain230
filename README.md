@@ -209,9 +209,7 @@ Rush Hour taxi game built entirely in Assembly language.
 
 </div>
 
-<br/>
 
-<br/>
 
 <div align="center">
 
