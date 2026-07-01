@@ -29,31 +29,32 @@
 
 ## `01` About Me
 
-<img align="right" width="200" src="https://avatars.githubusercontent.com/u/177659230?v=4" style="border-radius:50%;margin-left:20px;" />
-
-```yaml
-whoami:
-  name: "Hunain Shahid"
-  role: ["AI Engineer", "Backend Developer", "CS Student"]
-  location: "Pakistan"
-  focus:
-    - Data Structures & Algorithms
-    - System Design
-    - LLM Applications · RAG · Prompt Engineering
-    - Semantic Search & Information Retrieval
-    - Backend APIs & Distributed Systems
-  philosophy: "Scoring systems with LLM assist —
-               not LLM systems with scoring assist"
-  open_source: true
-```
-
-<br clear="right"/>
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hunain230&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A63FF&icon_color=8A63FF&text_color=c9d1d9&hide_title=true&hide_rank=true" width="65%"/>
+### 👋 Hey, I'm Hunain — I build systems where LLMs assist the logic, not replace it.
+
+*CS student from Pakistan, focused on backend engineering, RAG pipelines, and semantic search.*
+*Currently deep in embedded AI (ESP32 + YAMNet swarm robotics) and full-stack LLM-powered ed-tech.*
+
+<br/>
+
+<img src="https://img.shields.io/badge/🎓_Student-8A63FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🤖_AI_Engineer-302b63?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/⚙️_Backend_Dev-0f0c29?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/📍_Pakistan-24243e?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
 
 </div>
+
+| | |
+|:---|:---|
+| 🧠 **Focus Areas** | Data Structures & Algorithms · System Design · LLM Applications · RAG · Prompt Engineering |
+| 🔍 **Specialties** | Semantic Search · Information Retrieval · Backend APIs · Distributed Systems |
+| 💭 **Philosophy** | *"Scoring systems with LLM assist — not LLM systems with scoring assist."* |
+| 🌱 **Open Source** | Actively contributing & building in public |
+
+<br/>
 
 ## `02` Tech Stack
 
@@ -61,7 +62,7 @@ whoami:
 
 **Languages** &nbsp;·&nbsp; **Frontend** &nbsp;·&nbsp; **Backend**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css,md,react,nodejs,express,fastapi" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,md,react,nodejs,express,fastapi" />
 
 </div>
 
@@ -187,12 +188,16 @@ Rush Hour taxi game built entirely in Assembly language.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hunain230&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A63FF&icon_color=8A63FF&text_color=c9d1d9&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hunain230&theme=radical&hide_border=true&background=0D1117&stroke=8A63FF&ring=8A63FF&fire=8A63FF&currStreakLabel=8A63FF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hunain230&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A63FF&icon_color=8A63FF&text_color=c9d1d9&count_private=true&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunain230&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A63FF&text_color=c9d1d9&cache_seconds=1800" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunain230&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A63FF&text_color=c9d1d9" height="165"/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hunain230&theme=react-dark&hide_border=true&bg_color=0d1117&color=8A63FF&line=8A63FF&point=ffffff" width="95%"/>
+<img src="https://streak-stats.demolab.com/?user=Hunain230&theme=radical&hide_border=true&background=0D1117&stroke=8A63FF&ring=8A63FF&fire=8A63FF&currStreakLabel=8A63FF" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hunain230&theme=github-compact&hide_border=true&bg_color=0d1117&color=8A63FF&line=8A63FF&point=ffffff&area=true&area_color=8A63FF" width="95%"/>
 
 <details>
 <summary><b>🏆 Profile Trophies</b></summary>
@@ -210,14 +215,6 @@ Rush Hour taxi game built entirely in Assembly language.
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-**🔨 Building**
-- Enterprise ATS (semantic ranking engine)
-- AI Customer Support Chatbot (RAG)
-- Advanced RAG pipelines
-
-</td>
 <td width="50%" valign="top">
 
 **📚 Learning**
