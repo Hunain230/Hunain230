@@ -211,22 +211,6 @@ Rush Hour taxi game built entirely in Assembly language.
 
 <br/>
 
-## `05` Current Focus
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**📚 Learning**
-- Agentic AI & MCP
-- Docker & Kubernetes
-- Distributed Systems
-- Advanced System Design
-
-</td>
-</tr>
-</table>
-
 <br/>
 
 <div align="center">
