@@ -5,8 +5,7 @@
   BEFORE PUBLISHING, REPLACE THE FOLLOWING PLACEHOLDERS:
   - LEETCODE_USERNAME     → your LeetCode username
   - HACKERRANK_USERNAME   → your HackerRank username
-  - YOUR_EMAIL@domain.com → your email address
-  LinkedIn and GitHub links below are already set to your real profiles.
+  - YOUR_EMAIL@domain.com → shunain230@gmail.com
   ============================================================
 -->
 
@@ -19,9 +18,8 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/hunain-shahid-b27201278/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL@domain.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://www.hackerrank.com/HACKERRANK_USERNAME"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="mailto:shunain230@domain.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Hunain_Shahid/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://github.com/Hunain230"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px"/>
