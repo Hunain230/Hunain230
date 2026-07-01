@@ -29,9 +29,7 @@
 
 ## `01` About Me
 
-<table width="100%">
-<tr>
-<td width="65%" valign="top">
+<img align="right" width="200" src="https://avatars.githubusercontent.com/u/177659230?v=4" style="border-radius:50%;margin-left:20px;" />
 
 ```yaml
 whoami:
@@ -49,22 +47,13 @@ whoami:
   open_source: true
 ```
 
-</td>
-<td width="35%" align="center" valign="middle">
+<br clear="right"/>
 
-<img src="https://avatars.githubusercontent.com/u/177659230?v=4" width="180" style="border-radius:50%;" />
+<div align="center">
 
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hunain230&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A63FF&icon_color=8A63FF&text_color=c9d1d9&hide_title=true&hide_rank=true" width="65%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hunain230&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A63FF&icon_color=8A63FF&text_color=c9d1d9&hide_title=true&hide_rank=true" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-I engineer systems where **classical CS rigor meets modern AI** — from embedding pipelines and vector search to FastAPI backends. I care about correctness, latency, and clean architecture as much as model quality.
-
-<br/>
+</div>
 
 ## `02` Tech Stack
 
