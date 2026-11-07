@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1e3a5f&height=190&section=header&text=Hunain%20Shahid&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Computer%20Science%20%7C%20AI%20%26%20Backend%20Engineering&descSize=16&descAlignY=68" width="100%" alt="Hunain Shahid — Computer Science, AI and backend engineering" />
+<img src="https://raw.githubusercontent.com/Hunain230/Hunain230/main/assets/profile-banner.svg" width="100%" alt="Hunain Shahid — Computer Science, AI and backend engineering" />
 
 **I build practical software that combines intelligent systems with solid engineering.**
 
@@ -31,5 +31,4 @@ Applied AI and machine learning · RAG and information retrieval · Backend syst
 *Building useful things, learning by shipping.*
 
 </div>
-
 
