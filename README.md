@@ -15,32 +15,51 @@
 
 Applied AI and machine learning · RAG and information retrieval · Backend systems · Data structures and algorithms
 
-## Tech stack
+## Languages
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,nodejs,express,fastapi,mysql,supabase,git,github,vscode,postman,linux,arduino" alt="Python, C++, C, JavaScript, TypeScript, React, Node.js, Express, FastAPI, MySQL, Supabase, Git, GitHub, VS Code, Postman, Linux, Arduino" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 </div>
 
-<details>
-<summary><b>AI / ML & specialties</b></summary>
-<br />
+## Skills
 
-| Category | Stack |
-| --- | --- |
-| Frameworks | LangChain, Hugging Face, Sentence Transformers |
-| LLM providers | OpenAI, Groq, Cohere |
-| Core techniques | RAG, prompt engineering, embeddings, vector search, semantic search, NLP |
-| Vector stores | Pinecone, Qdrant, pgvector |
+<div align="center">
 
-</details>
+### Frontend Development
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
 
-<details>
-<summary><b>Embedded systems</b></summary>
-<br />
+### Backend & Databases
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
 
-ESP32 · MPU6050 · Arduino
+### Artificial Intelligence & Machine Learning
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/Sentence_Transformers-6C47FF?style=flat-square" alt="Sentence Transformers" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq" />
+<img src="https://img.shields.io/badge/Cohere-39594D?style=flat-square" alt="Cohere" />
 
-</details>
+RAG · Prompt engineering · Embeddings · Vector search · Semantic search · NLP · Pinecone · Qdrant · pgvector
+
+### System Programming & DevOps
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+<img src="https://img.shields.io/badge/MPU6050-333333?style=flat-square" alt="MPU6050" />
+
+</div>
 
 ## Contributions
 
