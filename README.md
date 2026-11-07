@@ -12,56 +12,8 @@
 
 Applied AI and machine learning · RAG and information retrieval · Backend systems · Data structures and algorithms
 
-## Featured work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [StudyPilot](https://github.com/Hunain230/StudyPilot)
-An AI study workspace for notes, PDFs, and lectures, with RAG-based Q&A, spaced repetition, and learning analytics.
-
-`TypeScript` · AI · EdTech
-
-</td>
-<td width="50%" valign="top">
-
-### [Customer Churn ML Pipeline](https://github.com/Hunain230/Customer_Churn_ML_Pipeline)
-A modular ETL pipeline that organizes customer data into bronze, silver, and gold layers for machine learning.
-
-`Python` · Data Engineering · ML
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Webcam Attendance System](https://github.com/Hunain230/Attendence-System-using-Webcam-)
-An offline-first facial recognition attendance app with a FastAPI backend and React interface.
-
-`Python` · Computer Vision · Full Stack
-
-</td>
-<td width="50%" valign="top">
-
-### [Classora LMS](https://github.com/Hunain230/Classora-LM)
-A multi-tenant learning management system built with Django, React, and MySQL.
-
-`Django` · `React` · `MySQL`
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>More projects</b></summary>
-<br />
-
-[IMDB Movie Manager](https://github.com/Hunain230/IMDB-Movie-Manager-) — C++ project using trees, hash maps, and graphs for movie search and recommendations. · [RideFlow](https://github.com/Hunain230/RideFlow) — TypeScript ride-hailing platform.
-
-</details>
-
 ## Languages
+
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -79,3 +31,5 @@ A multi-tenant learning management system built with Django, React, and MySQL.
 *Building useful things, learning by shipping.*
 
 </div>
+
+
